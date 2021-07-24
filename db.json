@@ -7,7 +7,8 @@
             "author": "Hassan Firas",
             "rating": "5.0",
             "price": "Rs. 744",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392344536l/366522.jpg"
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392344536l/366522.jpg",
+            "description":"Test Description"
         },
         {
             "id": "1",
@@ -16,7 +17,8 @@
             "author": "Cecelia Ahem",
             "rating": "4.0",
             "price": "Rs. 299",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392344536l/366522.jpg"
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392344536l/366522.jpg",
+            "description":""
         },
         {
             "id": "2",
@@ -25,7 +27,8 @@
             "author": "F.Scott Fitzgerald",
             "rating": "3.9",
             "price": "Rs. 399",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490528560l/4671._SY475_.jpg"
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490528560l/4671._SY475_.jpg",
+            "description":""
         },
         {
             "id": "3",
@@ -34,7 +37,8 @@
             "author": "Leo Tolstoy",
             "rating": "4.1",
             "price": "Rs. 199",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546091617l/15823480._SX318_.jpg"
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546091617l/15823480._SX318_.jpg",
+            "description":""
         },
         {
             "id": "4",
@@ -43,7 +47,8 @@
             "author": "Gustave Flaubert",
             "rating": "3.6",
             "price": "Rs. 249",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335676143l/2175.jpg"
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335676143l/2175.jpg",
+            "description":""
         },
         {
             "id": "5",
@@ -52,7 +57,8 @@
             "author": "Leo Tolstoy",
             "rating": "4.2",
             "price": "Rs. 249",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413215930l/656.jpg"
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413215930l/656.jpg",
+            "description":""
         },
         {
             "id": "6",
@@ -61,7 +67,8 @@
             "author": "Vladimir Nabokov",
             "rating": "3.8",
             "price": "Rs. 349",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377756377l/7604.jpg"
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377756377l/7604.jpg",
+            "description":""
         },
         {
             "id": "7",
@@ -70,7 +77,8 @@
             "author": "George Eliot",
             "rating": "3.9",
             "price": "Rs. 499",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481264628l/19089.jpg"
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481264628l/19089.jpg",
+            "description":""
         },
         {
             "id": "8",
@@ -79,7 +87,8 @@
             "author": "Mark Twain",
             "rating": "3.8",
             "price": "Rs. 199",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546096879l/2956.jpg"
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546096879l/2956.jpg",
+            "description":""
         },
         {
             "id": "9",
@@ -88,7 +97,8 @@
             "author": "Herman Melville",
             "rating": "3.5",
             "price": "Rs. 349",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327940656l/153747.jpg"
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327940656l/153747.jpg",
+            "description":""
         },
         {
             "id": "10",
@@ -97,7 +107,8 @@
             "author": "J.R.R Tolkien",
             "rating": "4.5",
             "price": "Rs. 499",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547450792l/33.jpg"
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547450792l/33.jpg",
+            "description":""
         }
     ]
 }
