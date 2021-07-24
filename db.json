@@ -2,7 +2,7 @@
         {
             "id": "1",
             "book_id": "101",
-            "name": "P.S. I love you",
+            "name": "Test Book",
             "author": "Cecelia Ahem",
             "rating": "4.0",
             "price": "Rs. 299",
