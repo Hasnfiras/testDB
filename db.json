@@ -1,8 +1,7 @@
 {
     "data": [
             {
-            "id": "0",
-            "book_id": "000",
+            "id": "100",
             "name": "Test Book",
             "author": "Hassan Firas",
             "rating": "5.0",
@@ -11,8 +10,7 @@
             "description":"Test Description"
         },
         {
-            "id": "1",
-            "book_id": "101",
+            "id": "101",
             "name": "P.S. I love you",
             "author": "Cecelia Ahem",
             "rating": "4.0",
@@ -21,8 +19,7 @@
             "description":""
         },
         {
-            "id": "2",
-            "book_id": "102",
+            "id": "102",
             "name": "The Great Gatsby",
             "author": "F.Scott Fitzgerald",
             "rating": "3.9",
@@ -31,8 +28,7 @@
             "description":""
         },
         {
-            "id": "3",
-            "book_id": "103",
+            "id": "103",
             "name": "Anna Karenina",
             "author": "Leo Tolstoy",
             "rating": "4.1",
@@ -41,8 +37,7 @@
             "description":""
         },
         {
-            "id": "4",
-            "book_id": "104",
+            "id": "104",
             "name": "Madame Bovary\r\n",
             "author": "Gustave Flaubert",
             "rating": "3.6",
@@ -51,8 +46,7 @@
             "description":""
         },
         {
-            "id": "5",
-            "book_id": "105",
+            "id": "105",
             "name": "War and Peace",
             "author": "Leo Tolstoy",
             "rating": "4.2",
@@ -61,8 +55,7 @@
             "description":""
         },
         {
-            "id": "6",
-            "book_id": "106",
+            "id": "106",
             "name": "Lolita",
             "author": "Vladimir Nabokov",
             "rating": "3.8",
@@ -71,8 +64,7 @@
             "description":""
         },
         {
-            "id": "7",
-            "book_id": "107",
+            "id": "107",
             "name": "Middlemarch",
             "author": "George Eliot",
             "rating": "3.9",
@@ -81,8 +73,7 @@
             "description":""
         },
         {
-            "id": "8",
-            "book_id": "108",
+            "id": "108",
             "name": "The Adventures of Huckleberry Finn",
             "author": "Mark Twain",
             "rating": "3.8",
@@ -91,8 +82,7 @@
             "description":""
         },
         {
-            "id": "9",
-            "book_id": "109",
+            "id": "109",
             "name": "Moby-Dick",
             "author": "Herman Melville",
             "rating": "3.5",
@@ -101,8 +91,7 @@
             "description":""
         },
         {
-            "id": "10",
-            "book_id": "110",
+            "id": "110",
             "name": "The Lord of the Rings",
             "author": "J.R.R Tolkien",
             "rating": "4.5",
